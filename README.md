@@ -2,7 +2,7 @@
 
 ## GOAL
 
-Set of tools to apply *Common* settings github repositories
+Set of tools to apply *Common* settings to github repositories
 
 It will be mostly in *golang*, feel free to fork this repo and submit PR's if you would like to see your tool in this repo
 
